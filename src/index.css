@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200;300;400;500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,body,#root{
+  height: 100%;
+}
+
+*{
+    font-family: 'Mulish', sans-serif;
+}
